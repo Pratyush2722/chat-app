@@ -1,0 +1,10 @@
+1 -- create frontend and backend folder 
+2 -- in frontend create a react app
+3 -- then directly start backend -- npm init -y
+4 -- then create a server.js in backend
+5 -- initialize express js inside it 
+6 -- app.listen(port,()=>{ message })
+7 -- add a route to see a message in the backend 
+8 -- change the script inside package json
+9 -- change it to "server": "node backend/server.js"
+10 -- run the server by npm run server
